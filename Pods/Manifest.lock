@@ -1,0 +1,16 @@
+PODS:
+  - qCocoa (0.1.0)
+
+DEPENDENCIES:
+  - qCocoa
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - qCocoa
+
+SPEC CHECKSUMS:
+  qCocoa: 98a1e5efba56b53753f8c9bee9c70a658dc50db1
+
+PODFILE CHECKSUM: 36ff4f0adc89029e7a330ae91223fbb59f5858d1
+
+COCOAPODS: 1.6.0.beta.2
